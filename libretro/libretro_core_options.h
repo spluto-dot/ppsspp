@@ -301,7 +301,7 @@ struct retro_core_option_v2_definition option_defs_us[] = {
          { "none",   "None" },
          { NULL, NULL },
       },
-      "opengl"
+      "none"
    },
    {
       "ppsspp_software_rendering",
@@ -333,7 +333,7 @@ struct retro_core_option_v2_definition option_defs_us[] = {
          { "4800x2720", "10x (4800x2720)" },
          { NULL, NULL },
       },
-      "1920x1088"
+      "480x272"
    },
    {
       "ppsspp_mulitsample_level",
